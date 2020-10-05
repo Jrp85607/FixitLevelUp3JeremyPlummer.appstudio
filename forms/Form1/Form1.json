@@ -14,7 +14,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "loan_interface",
+        "Form1",
         "Elements",
         "rbYears.json"
       ]
@@ -23,7 +23,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "loan_interface",
+        "Form1",
         "Elements",
         "Input1.json"
       ]
@@ -32,7 +32,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "loan_interface",
+        "Form1",
         "Elements",
         "inptRate.json"
       ]
@@ -41,7 +41,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "loan_interface",
+        "Form1",
         "Elements",
         "btnSubmit.json"
       ]
@@ -50,7 +50,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "loan_interface",
+        "Form1",
         "Elements",
         "rbLoanType.json"
       ]
@@ -62,7 +62,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "loan_interface",
+  "id": "Form1",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

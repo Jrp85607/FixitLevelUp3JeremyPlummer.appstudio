@@ -23,8 +23,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "loan_interface",
-            "loan_interface.json"
+            "Form1",
+            "Form1.json"
           ]
         }
       ],
