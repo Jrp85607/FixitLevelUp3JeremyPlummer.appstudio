@@ -23,8 +23,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "loanCalc",
+            "loanCalc.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "loanType",
+            "loanType.json"
           ]
         }
       ],
@@ -47,7 +55,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "loanType",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
