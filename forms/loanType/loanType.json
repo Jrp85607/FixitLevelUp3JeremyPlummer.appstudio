@@ -14,45 +14,18 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
-        "Elements",
-        "rbYears.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Form1",
-        "Elements",
-        "Input1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Form1",
-        "Elements",
-        "inptRate.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Form1",
-        "Elements",
-        "btnSubmit.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Form1",
+        "loanType",
         "Elements",
         "rbLoanType.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loanType",
+        "Elements",
+        "btnBegin.json"
       ]
     }
   ],
@@ -62,7 +35,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Form1",
+  "id": "loanType",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

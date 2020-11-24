@@ -1,0 +1,101 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loanCalc",
+        "Elements",
+        "inptAmount.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loanCalc",
+        "Elements",
+        "inptRate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loanCalc",
+        "Elements",
+        "rbYears.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loanCalc",
+        "Elements",
+        "btnSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loanCalc",
+        "Elements",
+        "lblResponse.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loanCalc",
+        "Elements",
+        "inptMonths.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loanCalc",
+        "Elements",
+        "btnNewLoan.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "loanCalc",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "loanCalc.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
